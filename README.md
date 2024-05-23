@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @JaylaC03
-- 👀 I’m interested in ...
+- 👀 I’m interested in front-end development
 - 🌱 I’m currently learning ML and AI with python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: email= jcri3927@students.vsu.edu , jayalcribb2@gmail.com
