@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JaylaC03
-- 👀 I’m interested in front-end development
-- 🌱 I’m currently learning ML and AI with python
+- 👀 I’m interested in becoming a Security Engineer
+- 🌱 I’m currently learning Patch deployment with SCCM, Computer Imaging, and Internal Security Audits
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: email= jcri3927@students.vsu.edu , jayalcribb2@gmail.com
 - 😄 Pronouns: She/her
